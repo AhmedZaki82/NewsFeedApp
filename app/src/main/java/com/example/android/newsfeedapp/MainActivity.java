@@ -1,5 +1,4 @@
 package com.example.android.newsfeedapp;
-
 import android.app.LoaderManager;
 import android.content.Context;
 import android.content.Intent;
